@@ -1,0 +1,29 @@
+
+### 2. `.gitignore`
+
+Java project ke liye ye daal:
+
+```gitignore
+# Compiled Java files
+*.class
+
+# Build folders
+target/
+out/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
